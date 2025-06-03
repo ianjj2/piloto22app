@@ -1,4 +1,4 @@
-# App Felipe
+
 
 Este é um projeto desenvolvido com Next.js e Supabase, utilizando TypeScript e Tailwind CSS.
 
